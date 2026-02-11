@@ -1,0 +1,42 @@
+* {
+  box-sizing: content-box;
+  font-family: sans-serif;
+  font-weight: 50px;
+  background-color: rgb(255, 233, 233);
+}
+.content{
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 30px;
+}
+.container{
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 30px;
+}
+.contact{
+  border: 3px solid black;
+  padding: 20px;
+  border-radius: 30px;
+}
+.box{
+  border: 3px solid black;
+  padding: 20px;
+  border-radius: 30px;
+}
+ ul {
+    list-style-type: circle;  
+  }
+
+footer{
+  text-align: center;
+  background-color: #333;
+  color: rgb(12, 1, 1);
+  padding: 1px;
+  margin-top: 2px;
+
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
